@@ -1,5 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Gabriel.</h1>
 <h3 align="center">💡 Fueled by Coke & Code</h3>
+<p align="center">
+  <a href="https://setcod.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=flat-square&logo=checkmarx&logoColor=white" />
+  </a>
+    <a href="mailto:contact@setcod.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-success?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/787886">
