@@ -49,7 +49,7 @@ class GabrielLupu extends Human implements Engineer, AIDabbler {
   readonly role = 'Software Engineer';
   readonly location = 'Brașov, Romania';
   readonly languages = ['TypeScript', 'JavaScript', 'SQL', 'English', 'Romanian'];
-  readonly stack = ['Node.js', 'NestJS', 'Angular', 'React Native', 'MySQL'];
+  readonly stack = ['Node.js', 'NestJS', 'Next.js', 'React', 'Angular', 'React Native', 'MySQL'];
   readonly curiosity = 'High';
   readonly experience = 15;
   readonly currentMission = 'Delivering scalable AI-infused web & mobile solutions via SETCOD 🚀';
