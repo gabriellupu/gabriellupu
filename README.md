@@ -1,14 +1,4 @@
 <h1 align="center">👋 Hi there, I'm Gabriel.</h1>
-<h3 align="center">💡 Fueled by Coke & Code</h3>
-<p align="center">
-  <a href="https://setcod.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=flat-square&logo=checkmarx&logoColor=white" />
-  </a>
-    <a href="mailto:contact@setcod.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-success?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://stackoverflow.com/users/787886">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/787886?style=flat-square&logo=stackoverflow&logoColor=white&color=orange" />
@@ -23,6 +13,27 @@
     <img src="https://img.shields.io/badge/Website-setcod.com-black?style=flat-square&logo=globe&logoColor=white" />
   </a>
 </p>
+<h3 align="center">💡 Fueled by Coke & Code</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<p align="center">
+  <a href="https://setcod.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Available_for_Work-success?style=flat-square&logo=checkmarx&logoColor=white" />
+  </a>
+    <a href="mailto:contact@setcod.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-success?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@lupugabriel/using-swagger-codegen-with-reactnative-4493d98cac15" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Using_Swagger_Codegen_with_React_Native-black?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+</p>
+
 
 ```typescript
 // Gabriel Lupu: Software Engineer, AI Explorer, Digital Artisan
@@ -49,7 +60,7 @@ class GabrielLupu extends Human implements Engineer, AIDabbler {
   readonly role = 'Software Engineer';
   readonly location = 'Brașov, Romania';
   readonly languages = ['TypeScript', 'JavaScript', 'SQL', 'English', 'Romanian'];
-  readonly stack = ['Node.js', 'NestJS', 'Next.js', 'React', 'Angular', 'React Native', 'MySQL'];
+  readonly stack = ['Node.js', 'NestJS', 'Angular', 'React Native', 'MySQL'];
   readonly curiosity = 'High';
   readonly experience = 15;
   readonly currentMission = 'Delivering scalable AI-infused web & mobile solutions via SETCOD 🚀';
