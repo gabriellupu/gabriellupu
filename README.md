@@ -98,9 +98,9 @@ console.log(me.explore('GPT-like Transformer Model'));
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.mysql.com/)
 
-📺 STATS
+📺 Few Stats
 ------------
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellupu&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="gabriellupu" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellupu&theme=dark" alt="gabriellupu" />
+  <img style="width: '49%'" src="https://github-readme-stats.vercel.app/api?username=gabriellupu&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="gabriellupu" />
+<img style="width: '49%'" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellupu&theme=dark" alt="gabriellupu" />
 </p>
