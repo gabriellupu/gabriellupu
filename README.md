@@ -98,8 +98,6 @@ console.log(me.explore('GPT-like Transformer Model'));
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.mysql.com/)
 
-📺 Few Stats
-------------
 <p align="center">
   <img style="width: '30%'" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellupu&theme=dark" alt="gabriellupu" />
 </p>
