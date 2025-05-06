@@ -101,6 +101,5 @@ console.log(me.explore('GPT-like Transformer Model'));
 📺 Few Stats
 ------------
 <p align="center">
-  <img style="width: '30%'" src="https://github-readme-stats.vercel.app/api?username=gabriellupu&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="gabriellupu" />
-<img style="width: '30%'" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellupu&theme=dark" alt="gabriellupu" />
+  <img style="width: '30%'" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellupu&theme=dark" alt="gabriellupu" />
 </p>
