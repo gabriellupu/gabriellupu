@@ -1,14 +1,18 @@
 <h1 align="center">👋 Hi there, I'm Gabriel.</h1>
 <p align="center">
+  <a href="https://github.com/lupugabriel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Member_since_2013-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+    <a href="https://stackoverflow.com/users/787886">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Member_since_2011-orange?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
   <a href="https://stackoverflow.com/users/787886">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/787886?style=flat-square&logo=stackoverflow&logoColor=white&color=orange" />
   </a>
   <a href="https://www.linkedin.com/in/lupugabriel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-lupugabriel-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/787886">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Member_since_2011-orange?style=flat-square&logo=stackoverflow&logoColor=white" />
-  </a>
+
   <a href="https://setcod.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-setcod.com-black?style=flat-square&logo=globe&logoColor=white" />
   </a>
